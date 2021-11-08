@@ -1,0 +1,99 @@
+
+---Downloaded files---
+The import files for: Default ShoppingCart were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/ecommerce
+Data file = C:\xampp\htdocs\ecommerce\wp-content\plugins\theme-freesia-demo-import\files/dummy/shoppingcart/shoppingcart.wordpress.xml
+Widget file = C:\xampp\htdocs\ecommerce\wp-content\plugins\theme-freesia-demo-import\files/dummy/shoppingcart/shoppingcart-widgets.wie
+Customizer file = C:\xampp\htdocs\ecommerce\wp-content\plugins\theme-freesia-demo-import\files/dummy/shoppingcart/shoppingcart-export.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Main Sidebar : 
+
+Search - No Title - Widget already exists
+TF: Popular Posts - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Top Header Info : 
+
+Text - No Title - Widget already exists
+
+Advertisement Banner One : 
+
+Image - No Title - Widget already exists
+
+Shopping Cart Template : 
+
+shoppingcart_product_grid_column_widget - Best Selling Products - Site does not support widget
+woocommerce_products - Products - Site does not support widget
+shoppingcart_product_grid_column_widget - Featured Products - Site does not support widget
+woocommerce_top_rated_products - Top rated products - Site does not support widget
+shoppingcart_product_grid_column_widget - New Arrival Product - Site does not support widget
+
+Contact Page Sidebar : 
+
+Custom HTML - Contact Info - Widget already exists
+
+WooCommerce Sidebar : 
+
+woocommerce_product_categories - Product categories - Site does not support widget
+woocommerce_layered_nav_filters - Active filters - Site does not support widget
+woocommerce_price_filter - Filter by price - Site does not support widget
+woocommerce_products - Products - Site does not support widget
+woocommerce_product_tag_cloud - Product tags - Site does not support widget
+
+ ShoppingCart Template Footer Column 1 : 
+
+woocommerce_products - Featured Products - Site does not support widget
+
+ ShoppingCart Template Footer Column 2 : 
+
+woocommerce_products - On Sale Products - Site does not support widget
+
+ ShoppingCart Template Footer Column 3 : 
+
+woocommerce_products - All Products - Site does not support widget
+
+ ShoppingCart Template Footer Column 4 : 
+
+woocommerce_products - Products - Site does not support widget
+
+Footer Column 1 : 
+
+Text - No Title - Widget already exists
+
+Footer Column 2 : 
+
+Custom HTML - We Accept - Widget already exists
+
+Footer Column 3 : 
+
+Custom HTML - Shop Location - Widget already exists
+
+Footer Column 4 : 
+
+Image - Download App - Widget already exists
+Image - No Title - Widget already exists
+
+mega-menu : Sidebar does not exist in theme (moving widget to Inactive)
+
+woocommerce_products - Products - Site does not support widget
+Text - No Title - Widget already exists
+woocommerce_products - Products - Site does not support widget
+Text - No Title - Widget already exists
+maxmegamenu - No Title - Site does not support widget
+Navigation Menu - No Title - Widget already exists
+Image - Featured Product - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---tf-tfdi/after_import---
+

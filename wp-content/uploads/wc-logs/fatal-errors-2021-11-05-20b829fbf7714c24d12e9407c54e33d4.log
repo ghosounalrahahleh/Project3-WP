@@ -1,0 +1,56 @@
+2021-11-05T11:52:22+00:00 CRITICAL Uncaught Error: Non-static method ADI_Demos::required_plugins() cannot be called statically in C:\xampp\htdocs\ecommerce\wp-content\plugins\access-demo-importer\inc\demo-functions.php:264
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\wp-includes\class-wp-hook.php(303): ADI_Demos::ajax_demo_data('')
+#1 C:\xampp\htdocs\ecommerce\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\ecommerce\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\ecommerce\wp-admin\admin-ajax.php(187): do_action('wp_ajax_adi_aja...')
+#4 {main}
+  thrown in C:\xampp\htdocs\ecommerce\wp-content\plugins\access-demo-importer\inc\demo-functions.php on line 264
+
+2021-11-05T11:52:39+00:00 CRITICAL Uncaught Error: Non-static method ADI_Demos::required_plugins() cannot be called statically in C:\xampp\htdocs\ecommerce\wp-content\plugins\access-demo-importer\inc\demo-functions.php:264
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\wp-includes\class-wp-hook.php(303): ADI_Demos::ajax_demo_data('')
+#1 C:\xampp\htdocs\ecommerce\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\ecommerce\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\ecommerce\wp-admin\admin-ajax.php(187): do_action('wp_ajax_adi_aja...')
+#4 {main}
+  thrown in C:\xampp\htdocs\ecommerce\wp-content\plugins\access-demo-importer\inc\demo-functions.php on line 264
+
+2021-11-05T11:52:51+00:00 CRITICAL Uncaught Error: Non-static method ADI_Demos::required_plugins() cannot be called statically in C:\xampp\htdocs\ecommerce\wp-content\plugins\access-demo-importer\inc\demo-functions.php:264
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\wp-includes\class-wp-hook.php(303): ADI_Demos::ajax_demo_data('')
+#1 C:\xampp\htdocs\ecommerce\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\ecommerce\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\ecommerce\wp-admin\admin-ajax.php(187): do_action('wp_ajax_adi_aja...')
+#4 {main}
+  thrown in C:\xampp\htdocs\ecommerce\wp-content\plugins\access-demo-importer\inc\demo-functions.php on line 264
+
+2021-11-05T11:53:04+00:00 CRITICAL Uncaught Error: Non-static method ADI_Demos::required_plugins() cannot be called statically in C:\xampp\htdocs\ecommerce\wp-content\plugins\access-demo-importer\inc\demo-functions.php:264
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\wp-includes\class-wp-hook.php(303): ADI_Demos::ajax_demo_data('')
+#1 C:\xampp\htdocs\ecommerce\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\ecommerce\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\ecommerce\wp-admin\admin-ajax.php(187): do_action('wp_ajax_adi_aja...')
+#4 {main}
+  thrown in C:\xampp\htdocs\ecommerce\wp-content\plugins\access-demo-importer\inc\demo-functions.php on line 264
+
+2021-11-05T11:53:16+00:00 CRITICAL Uncaught ValueError: scandir(): Argument #1 ($directory) cannot be empty in C:\xampp\htdocs\ecommerce\wp-content\plugins\access-demo-importer\access-demo-importer.php:430
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\wp-content\plugins\access-demo-importer\access-demo-importer.php(430): scandir('')
+#1 C:\xampp\htdocs\ecommerce\wp-content\plugins\access-demo-importer\access-demo-importer.php(418): Access_Demo_Importer->adi_clear_uploads(NULL)
+#2 C:\xampp\htdocs\ecommerce\wp-includes\class-wp-hook.php(303): Access_Demo_Importer->adi_demo_data_reset('')
+#3 C:\xampp\htdocs\ecommerce\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#4 C:\xampp\htdocs\ecommerce\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\ecommerce\wp-admin\admin-ajax.php(187): do_action('wp_ajax_adi_dem...')
+#6 {main}
+  thrown in C:\xampp\htdocs\ecommerce\wp-content\plugins\access-demo-importer\access-demo-importer.php on line 430
+
+2021-11-05T11:53:31+00:00 CRITICAL Uncaught Error: Non-static method ADI_Demos::required_plugins() cannot be called statically in C:\xampp\htdocs\ecommerce\wp-content\plugins\access-demo-importer\inc\demo-functions.php:264
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\wp-includes\class-wp-hook.php(303): ADI_Demos::ajax_demo_data('')
+#1 C:\xampp\htdocs\ecommerce\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\ecommerce\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\ecommerce\wp-admin\admin-ajax.php(187): do_action('wp_ajax_adi_aja...')
+#4 {main}
+  thrown in C:\xampp\htdocs\ecommerce\wp-content\plugins\access-demo-importer\inc\demo-functions.php on line 264
+
